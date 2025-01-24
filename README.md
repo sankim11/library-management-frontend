@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a **Library Management System** built with a backend powered by Symfony (PHP) and a frontend using React (JavaScript/TypeScript). The system enables users to manage books, handle reservations, and perform administrative tasks.
+Website is deployed on https://flulibrary.netlify.app/ but backend is not deployed, you can run the project locally following the instructions below.
 
 ## Features
 - **Book Management**: Add, update, and remove books.
